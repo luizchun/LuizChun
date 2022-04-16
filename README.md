@@ -3,7 +3,7 @@
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to Development and Software Engineering. 
 
-- 🔭 I’m currently working on C# development  (QL Server(Database) SGBD, IDE Visual Studio 19, Excel e VBA, AspNet MVC, .NET Core, .NET Framework, C#, Pentaho Data Integration, API RESTful comRestsharp, API (Soap e Postman), Swagger, Docker, GIT,HTML5, CSS, JavaScript, AWS, Salesforce, N3 Support and etc.).
+- 🔭 I’m currently working on C# development  (SQL Server(Database) SGBD, IDE Visual Studio 19, Excel e VBA, AspNet MVC, .NET Core, .NET Framework, C#, Pentaho Data Integration, API RESTful comRestsharp, API (Soap e Postman), Swagger, Docker, GIT,HTML5, CSS, JavaScript, AWS, Salesforce, N3 Support and etc.).
 - 🌱 Currently my main goal is to become FullCycle with C# and JavaScript and work in the Engineering area.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizchun)
