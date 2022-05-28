@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=luizchun)
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to Development and Software Engineering. 
+I am recent engineering graduate looking for opportunities and collaboration in projects related to Development and Software Engineering. 
 
 - 🔭 I’m currently working on C# Software Development.  
 - 🌱 Currently my main goal is to become FullCycle with C# and JavaScript and work in the Engineering area.
