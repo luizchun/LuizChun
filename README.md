@@ -8,15 +8,11 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizchun)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizchun/)
   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Luiz Chun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz Chun&icon=0&color=0)](https://visitcount.itsvg.in)
 
